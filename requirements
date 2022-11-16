@@ -1,0 +1,4 @@
+mariadb
+SQLAlchemy
+sqlalchemy-utils
+Faker
